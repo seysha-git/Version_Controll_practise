@@ -16,4 +16,10 @@ shield.add(20)
 print(shield.health)
 
 
+
+class Person:
+    pass
+
+class House:
+    pass
         
