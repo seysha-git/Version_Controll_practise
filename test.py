@@ -23,3 +23,9 @@ class Person:
 class House:
     pass
         
+
+class X:
+    pass
+
+class Y:
+    pass
